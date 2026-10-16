@@ -25,10 +25,6 @@ and stitched + encoded at run time.
 
 ## Installation
 
-### Via ComfyUI Manager
-Search for **ComfyUI-KleinRefGrid** and install.
-
-### Manual
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/xb1n0ry/ComfyUI-KleinRefGrid
